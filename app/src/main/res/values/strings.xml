@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiz Trivia</string>
+    <string name="channel_name">Time remaining</string>
+    <string name="channel_description">Displays Total Score</string>
+</resources>
